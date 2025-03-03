@@ -1,3 +1,4 @@
+#fuck this shit
 TRAIN:
   DATASET: imagenet1k
   BATCH_SIZE: 512
